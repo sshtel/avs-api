@@ -1,0 +1,14 @@
+{
+  "name": "avs-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create-http2-connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Song",
+  "license": "ISC",
+  "dependencies": {
+    "http2": "^3.3.6"
+  }
+}
